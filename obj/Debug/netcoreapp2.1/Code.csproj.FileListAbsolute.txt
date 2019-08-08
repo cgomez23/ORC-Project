@@ -1,0 +1,15 @@
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\Code.deps.json
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\Code.runtimeconfig.json
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\Code.runtimeconfig.dev.json
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\Code.dll
+C:\Users\cgomez\source\repos\Code\Code\obj\Debug\netcoreapp2.1\Code.csprojAssemblyReference.cache
+C:\Users\cgomez\source\repos\Code\Code\obj\Debug\netcoreapp2.1\Code.csproj.CoreCompileInputs.cache
+C:\Users\cgomez\source\repos\Code\Code\obj\Debug\netcoreapp2.1\Code.AssemblyInfoInputs.cache
+C:\Users\cgomez\source\repos\Code\Code\obj\Debug\netcoreapp2.1\Code.AssemblyInfo.cs
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\Code.pdb
+C:\Users\cgomez\source\repos\Code\Code\obj\Debug\netcoreapp2.1\Code.dll
+C:\Users\cgomez\source\repos\Code\Code\obj\Debug\netcoreapp2.1\Code.pdb
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\x86\liblept1753.dll
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\x86\libtesseract3052.dll
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\x64\liblept1753.dll
+C:\Users\cgomez\source\repos\Code\Code\bin\Debug\netcoreapp2.1\x64\libtesseract3052.dll
